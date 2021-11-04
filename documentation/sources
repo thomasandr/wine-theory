@@ -1,0 +1,9 @@
+Overview
+--------
+
+This project scrapes data from the argonauts website and returns a dataset that can be analyized for a
+good wine buying experience.
+
+Datasource : The wine section of the Argonaut website.
+-------------------------------------------------------
+https://www.argonautliquor.com/search/sort/rating%20desc/categories/Wine/sort/rating%20desc/page/1
